@@ -1,2 +1,2 @@
 # leukamia-detection-
-By using images of leukamia effected patients , this program can say the nature of leukamia the person is effected with.
+The images of the blood cells of the people effected with leukamia are given as input to the program to know the status of the person who is infected 
